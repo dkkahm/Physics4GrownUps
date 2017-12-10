@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/scLobby.unity
+    guid: 2e940f6db75ff39409c1cc5fa8f08126
+  - enabled: 1
+    path: Assets/01.Scenes/scFalling.unity
+    guid: c7633ba75dfeb694a86cd74c55b5eb6c
+  - enabled: 1
+    path: Assets/01.Scenes/scProjectile.unity
+    guid: 861d80667a14a0f458b88870767da2d2
